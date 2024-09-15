@@ -16,7 +16,7 @@
 
 <img alt="yuriestats" src="https://github-readme-stats.vercel.app/api?username=HyuuuRiie&show_icons=true&theme=transparent"/>
 
-<img alt="yurielang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyuuuRiie&layout=compact&theme=transparent&hide_progress=true"/>
+<br/><img alt="yurielang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyuuuRiie&layout=compact&theme=transparent&hide_progress=true"/>
 
 ##
 
